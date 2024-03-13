@@ -20,7 +20,7 @@ This project is a facial recognition-based attendance system designed for educat
 - Security: Ensures data privacy and security through encryption and access control mechanisms.
 - Scalability: Designed to handle a large number of users and scale according to the institution's needs.
 - Customization: Allows customization of attendance rules, notifications, and other settings as per institutional requirements.
-##Technologies Used
+## Technologies Used
 Python for backend development and machine learning models.
 OpenCV and Dlib for face detection and recognition.
 Flask for building the web application interface.
