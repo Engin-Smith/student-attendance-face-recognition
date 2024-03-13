@@ -1,6 +1,9 @@
-# student-attendance-face-recognition
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Engin-Smith/student-attendance-face-recognition/blob/main/face.png" width="400" alt="Laravel Logo"></a></p>
 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Engin-Smith/student-attendance-face-recognition/blob/main/face.png" width="400" alt="Laravel Logo"></a></p>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="icon" width="50" height="50" />
+</div>
 
 <h1 align="center">Student AttendanceFace Recognition System</h1>
 <p align="center">
@@ -8,10 +11,6 @@ This project is a facial recognition-based attendance system designed for educat
 </p>
 
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="icon" width="50" height="50" />
-</div>
 
 ## Key Features:
 - Facial Recognition: Utilizes deep learning algorithms to recognize and authenticate students based on their facial features.
