@@ -10,7 +10,7 @@ This project is a facial recognition-based attendance system designed for educat
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dfirebase&psig=AOvVaw1Aqy_95hZ8HGnVtHX-92QQ&ust=1710432035911000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi8iYLO8YQDFQAAAAAdAAAAABAD" alt="icon" width="50" height="50" />
+  <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo.png" alt="icon" width="50" height="50" />
 </div>
 
 ## Key Features:
