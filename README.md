@@ -61,4 +61,12 @@ if sucessful connection you can run
 
 <img src="sneaker store.PNG" width="4000px">
 
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+## Disclaimer
+Please note that while this system aims to provide accurate attendance tracking, it may not be foolproof and may require human verification in certain cases. Use it responsibly and in compliance with legal and ethical standards.
+
+
+
 
