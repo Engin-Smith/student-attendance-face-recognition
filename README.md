@@ -45,7 +45,7 @@ Install the necessary dependencies using
 ```
 Run the application using python3 main.py.
 
-go to directory Modul for configuration the connection string to database Example Server name
+this application we're using windows form
 
 ## Tech Stack
 
