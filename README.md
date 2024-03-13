@@ -8,9 +8,19 @@ This project is a facial recognition-based attendance system designed for educat
 </p>
 
 
-Student Attendance Face Recognition System
-
-This project is a facial recognition-based attendance system designed for educational institutions. It automates the attendance process using advanced facial recognition technology, offering a more efficient and accurate alternative to traditional attendance tracking methods.
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+<!--   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" /> -->
+<!--   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /> -->
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+ 
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>.
 
 ## Key Features:
 - Facial Recognition: Utilizes deep learning algorithms to recognize and authenticate students based on their facial features.
