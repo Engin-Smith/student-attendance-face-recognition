@@ -9,18 +9,9 @@ This project is a facial recognition-based attendance system designed for educat
 
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-<!--   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" /> -->
-<!--   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /> -->
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
- 
- <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>.
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dfirebase&psig=AOvVaw1Aqy_95hZ8HGnVtHX-92QQ&ust=1710432035911000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi8iYLO8YQDFQAAAAAdAAAAABAD" alt="icon" width="50" height="50" />
+</div>
 
 ## Key Features:
 - Facial Recognition: Utilizes deep learning algorithms to recognize and authenticate students based on their facial features.
