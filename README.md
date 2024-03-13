@@ -1,5 +1,5 @@
 # student-attendance-face-recognition
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/Engin-Smith/student-attendance-face-recognition/blob/main/face.png" width="400" alt="Laravel Logo"></a></p>
 
 
 <h1 align="center">Sneaker Store System</h1>
