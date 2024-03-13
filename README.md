@@ -43,6 +43,11 @@ Install the necessary dependencies using
   install cvzone or openCV
   install face-recongintion 
 ```
+Database
+
+```bash
+  fix the database with firebase 
+```
 Run the application using python3 main.py.
 
 this application we're using windows form
