@@ -9,30 +9,9 @@ Sneaker Store management is a very complex process which also need a very effici
 it enhances correctness and reduces man power.
 </p>
 
-## Team Members
-
-- [@Engin-Smith](https://github.com/Engin-Smith)
-
-| #              | Member                                                               |
-| ----------------- | ------------------------------------------------------------------ |
-|1|  Mao Somith |
-|2|  Leang Panha |
-|3|  Korn Souty |
-|4|  Chon Bunham |
-|5|  NUON SAMBO |
-|6|  Mao Chivorn |
-|7|  Chem Bouna |
-|8|  Nam Sovvan |
 
 ## Features
 
-- Modern GUI
-- Searchs
-- Suppliers
-- Products
-- Sales
-- Expenses
-- Report
 
 
 ## Installation
@@ -40,7 +19,7 @@ it enhances correctness and reduces man power.
 Install my-project with git
 
 ```bash
-  git clone https://github.com/Engin-Smith/Sneaker-Store-System.git
+  
 ```
 Or just to Download file ZIP 
 
@@ -50,43 +29,19 @@ Or just to Download file ZIP
 Set Up Database 
 
 ```bash
-  Install SqlServer
-```
-Backup Database By using data source file in directory Database Backup
-
-```bash
-  db_sneaker.bacpac
+  
 ```
 go to directory Modul for configuration the connection string to database Example Server name
 
 ```bash
-  DESKTOP-UOR27U4
+  
 ```
-if sucessful connection you can run and login test with demo account
-```bash
-  username = 123 password = 123
-```
+if sucessful connection you can run 
 ## Tech Stack
 
-**Client:** VB.Net
+**Client:** Python
 
-**Server:** SQL Server
-
-
-## Running Tests
-
-To run tests, run the following to open visual studio
-
-```bash
-    sneaker_store.sln
-```
-
-
-## Plugin
-
- - [Crystal Report for visual studio](https://www.sap.com/products/technology-platform/crystal-reports.html#try-now)
- - [SQL Server ](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-
+**Server:** FireBases
 
 ## Screenshots
 
