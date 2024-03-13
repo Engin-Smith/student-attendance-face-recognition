@@ -47,8 +47,6 @@ Run the application using python3 main.py.
 
 go to directory Modul for configuration the connection string to database Example Server name
 
-```
-if sucessful connection you can run 
 ## Tech Stack
 
 **Client:** Python
