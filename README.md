@@ -30,25 +30,23 @@ HTML/CSS/JavaScript for frontend development.
 
 ## Installation
 
-Install my-project with git
+Clone the repository to your local machine.
 
 ```bash
-  
+  https://github.com/Engin-Smith/student-attendance-face-recognition.git
 ```
-Or just to Download file ZIP 
+Install the necessary dependencies using
 
 ```bash
-  Download ZIP
+  install cmake
+  install dlib
+  install cvzone or openCV
+  install face-recongintion 
 ```
-Set Up Database 
+Run the application using python3 main.py.
 
-```bash
-  
-```
 go to directory Modul for configuration the connection string to database Example Server name
 
-```bash
-  
 ```
 if sucessful connection you can run 
 ## Tech Stack
